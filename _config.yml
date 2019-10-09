@@ -1,11 +1,11 @@
 # Site settings
 author: Patrick Ward
-title: 
+title: Learning with Flatiron
 header-img: img/home-bg.png
 email: patrick.r.ward@verizon.net
 copyright_name: Patrick Ward
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Struggling my way up the hill.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  prward
